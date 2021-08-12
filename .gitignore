@@ -5,7 +5,8 @@ __pycache__/
 
 #my excludes
 Practice.ipynb
-
+youtubetest.ipynb
+Mission_to_Mars_Challenge.py
 
 # C extensions
 *.so
